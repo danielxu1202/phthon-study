@@ -46,3 +46,11 @@ SSR   链接 : ssr://MTk5LjI0Ny4zMC41OTo0NDM6YXV0aF9hZXMxMjhfbWQ1OmFlcy0yNTYtY3R
 
 
 SSR   链接 : ssr://NDUuNjMuNDMuNzM6NDQzOmF1dGhfYWVzMTI4X21kNTphZXMtMjU2LWN0cjp0bHMxLjJfdGlja2V0X2F1dGg6YUhOa1oyaGtadw
+
+账号1：162.245.239.67 端口：7654 密码： dongtaiwang.com
+
+加密方式：RC4 协议：origin 混淆：plain
+
+账号2：185.118.166.1 端口：7654 密码： dongtaiwang.com
+
+加密方式： RC4 协议：origin 混淆：plain
